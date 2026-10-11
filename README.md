@@ -37,6 +37,7 @@
 |:---:|:---|:---:|:---|
 | 1 | Building a Simple CLI Application | 7 | [Activity 1: Simple CLI Task Manager](./Class_Activity/Activity1_SimpleCLI_TaskManager) |
 | 2 | OOP Fundamentals & Refactoring the CLI Task Manager | 8 | [Activity 2: OOP Task Manager](./Class_Activity/Activity2_OOP_TaskManager) |
+| 3 | Interacting with Web APIs: Fetching and Processing JSON Data (+ งานต่อยอด) | 10 | [Activity 3: Web API Fetcher](./Class_Activity/Activity3_WebAPI_Fetcher) |
 
 ## 🗂️ รูปแบบการตั้งชื่อไฟล์
 
