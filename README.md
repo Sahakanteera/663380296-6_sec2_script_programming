@@ -29,6 +29,14 @@
 
 > สรุปแต่ละสัปดาห์มี 2 แบบ: 📖 `.md` เปิดอ่านบน GitHub ได้ทันที และ 📄 `.docx` สำหรับดาวน์โหลดไปเปิดใน Word
 
+## 🧪 Class Activity (คะแนนเสริม)
+
+อยู่ในโฟลเดอร์ [`Class_Activity`](./Class_Activity) แยกจากโฟลเดอร์รายสัปดาห์ตามที่อาจารย์กำหนด
+
+| Activity | หัวข้อ | สัปดาห์ | งาน |
+|:---:|:---|:---:|:---|
+| 1 | Building a Simple CLI Application | 7 | [Activity 1: Simple CLI Task Manager](./Class_Activity/Activity1_SimpleCLI_TaskManager) |
+
 ## 🗂️ รูปแบบการตั้งชื่อไฟล์
 
 | รูปแบบ | ความหมาย |
