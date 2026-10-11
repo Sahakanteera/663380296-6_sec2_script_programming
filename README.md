@@ -22,7 +22,7 @@
 | 5 | Data Structures: Dictionaries & Sets | [📖 อ่านออนไลน์ (.md)](./Week5/Week5_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week5/Week5_Recap.docx) | [Lab 5 & Activity 5](./Week5/Week5_Lab5_and_Activity5.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
 | 6 | Functions & Modules | [📖 อ่านออนไลน์ (.md)](./Week6/Week6_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week6/Week6_Recap.docx) | [Lab 6 & Activity 6](./Week6/Week6_Lab6_and_Activity6.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
 | 7 | Web Scraping, Error Handling & Project Structure | [📖 อ่านออนไลน์ (.md)](./Week7/Week7_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week7/Week7_Recap.docx) | [LAB Basic 1: Web Scraping](./Week7/Week7_LabBasic1_WebScraping) | – |
-| 8 | OOP Fundamentals | [📖 อ่านออนไลน์ (.md)](./Week8/Week8_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week8/Week8_Recap.docx) | กำลังดำเนินการ | – |
+| 8 | OOP Fundamentals & Automating with CSV / JSON Data | [📖 อ่านออนไลน์ (.md)](./Week8/Week8_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week8/Week8_Recap.docx) | [LAB Basic Week 8: CSV & JSON Data Processor](./Week8/Week8_LabBasic_DataProcessor) | – |
 | 10 | Web APIs, Spreadsheet Automation & Final Project | [📖 อ่านออนไลน์ (.md)](./Week10/Week10_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week10/Week10_Recap.docx) | กำลังดำเนินการ | – |
 
 > สรุปแต่ละสัปดาห์มี 2 แบบ: 📖 `.md` เปิดอ่านบน GitHub ได้ทันที และ 📄 `.docx` สำหรับดาวน์โหลดไปเปิดใน Word
