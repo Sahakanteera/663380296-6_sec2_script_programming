@@ -15,17 +15,17 @@
 
 | สัปดาห์ | หัวข้อบทเรียน | สรุปการเรียน (Recap) | Lab | Activity |
 |:---:|:---|:---:|:---|:---|
-| 1 | Introduction to Python & Basic Syntax | [Week1_Recap](./Week1/Week1_Recap.md) | – | – |
-| 2 | Control Flow: Conditionals + List Comprehension | [Week2_Recap](./Week2/Week2_Recap.md) | [Lab 2.1](./Week2/Week2_Lab2.1.ipynb) · [Lab 2.2](./Week2/Week2_Lab2.2.ipynb) | [Activity 2.1–2.2](./Week2/Week2_Activity2.1-2.2.pdf) |
-| 3 | Control Flow: Loops + Generators | [Week3_Recap](./Week3/Week3_Recap.md) | [Lab 3 & Activity 3](./Week3/Week3_Lab3_and_Activity3.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
-| 4 | Data Structures: Lists & Tuples | [Week4_Recap](./Week4/Week4_Recap.md) | [Lab 4 & Activity 4](./Week4/Week4_Lab4_and_Activity4.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
-| 5 | Data Structures: Dictionaries & Sets | [Week5_Recap](./Week5/Week5_Recap.md) | [Lab 5 & Activity 5](./Week5/Week5_Lab5_and_Activity5.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
-| 6 | Functions & Modules | [Week6_Recap](./Week6/Week6_Recap.md) | [Lab 6 & Activity 6](./Week6/Week6_Lab6_and_Activity6.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
-| 7 | Web Scraping, Error Handling & Project Structure | [Week7_Recap](./Week7/Week7_Recap.md) | [LAB Basic 1: Web Scraping](./Week7/Week7_LabBasic1_WebScraping) | – |
-| 8 | OOP Fundamentals | [Week8_Recap](./Week8/Week8_Recap.md) | กำลังดำเนินการ | – |
-| 10 | Web APIs, Spreadsheet Automation & Final Project | [Week10_Recap](./Week10/Week10_Recap.md) | กำลังดำเนินการ | – |
+| 1 | Introduction to Python & Basic Syntax | [📖 อ่านออนไลน์ (.md)](./Week1/Week1_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week1/Week1_Recap.docx) | – | – |
+| 2 | Control Flow: Conditionals + List Comprehension | [📖 อ่านออนไลน์ (.md)](./Week2/Week2_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week2/Week2_Recap.docx) | [Lab 2.1](./Week2/Week2_Lab2.1.ipynb) · [Lab 2.2](./Week2/Week2_Lab2.2.ipynb) | [Activity 2.1–2.2](./Week2/Week2_Activity2.1-2.2.pdf) |
+| 3 | Control Flow: Loops + Generators | [📖 อ่านออนไลน์ (.md)](./Week3/Week3_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week3/Week3_Recap.docx) | [Lab 3 & Activity 3](./Week3/Week3_Lab3_and_Activity3.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
+| 4 | Data Structures: Lists & Tuples | [📖 อ่านออนไลน์ (.md)](./Week4/Week4_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week4/Week4_Recap.docx) | [Lab 4 & Activity 4](./Week4/Week4_Lab4_and_Activity4.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
+| 5 | Data Structures: Dictionaries & Sets | [📖 อ่านออนไลน์ (.md)](./Week5/Week5_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week5/Week5_Recap.docx) | [Lab 5 & Activity 5](./Week5/Week5_Lab5_and_Activity5.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
+| 6 | Functions & Modules | [📖 อ่านออนไลน์ (.md)](./Week6/Week6_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week6/Week6_Recap.docx) | [Lab 6 & Activity 6](./Week6/Week6_Lab6_and_Activity6.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
+| 7 | Web Scraping, Error Handling & Project Structure | [📖 อ่านออนไลน์ (.md)](./Week7/Week7_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week7/Week7_Recap.docx) | [LAB Basic 1: Web Scraping](./Week7/Week7_LabBasic1_WebScraping) | – |
+| 8 | OOP Fundamentals | [📖 อ่านออนไลน์ (.md)](./Week8/Week8_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week8/Week8_Recap.docx) | กำลังดำเนินการ | – |
+| 10 | Web APIs, Spreadsheet Automation & Final Project | [📖 อ่านออนไลน์ (.md)](./Week10/Week10_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week10/Week10_Recap.docx) | กำลังดำเนินการ | – |
 
-> สรุปแต่ละสัปดาห์มีทั้งไฟล์ `.md` (อ่านบน GitHub ได้ทันที) และ `.docx` (สำหรับดาวน์โหลด)
+> สรุปแต่ละสัปดาห์มี 2 แบบ: 📖 `.md` เปิดอ่านบน GitHub ได้ทันที และ 📄 `.docx` สำหรับดาวน์โหลดไปเปิดใน Word
 
 ## 🗂️ รูปแบบการตั้งชื่อไฟล์
 
