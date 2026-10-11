@@ -25,7 +25,7 @@
 | 8 | OOP Fundamentals & Automating with CSV / JSON Data | [📖 อ่านออนไลน์ (.md)](./Week8/Week8_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week8/Week8_Recap.docx) | [LAB Basic Week 8: CSV & JSON Data Processor](./Week8/Week8_LabBasic_DataProcessor)<br>[LabX ADV Week 8: Agentic Data Processor](./Week8/Week8_LabADV_AgenticDataProcessor) | – |
 | 10 | Web APIs, Spreadsheet Automation & Final Project | [📖 อ่านออนไลน์ (.md)](./Week10/Week10_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week10/Week10_Recap.docx) | [LabX BASIC Week 10: Spreadsheet Automator](./Week10/Week10_LabBasic_SpreadsheetAutomator)<br>[LabX ADV Week 10: Spreadsheet Agent](./Week10/Week10_LabADV_SpreadsheetAgent) | – |
 | 11 | Automating PDFs & Word Documents | – | [LabX BASIC Week 11: Document Automator](./Week11/Week11_LabBasic_DocumentAutomator)<br>[LabX ADV Week 11: Document Agent](./Week11/Week11_LabADV_DocumentAgent) | – |
-| 12 | Automating Communications (Email & SMS) | – | [LabX BASIC Week 12: Email & SMS Automator](./Week12/Week12_LabBasic_EmailSmsAutomator)<br>[LabX ADV Week 12: Agentic Communication Automator](./Week12/Week12_LabADV_AgenticCommAutomator) | – |
+| 12 | Automating Communications (Email & SMS) | – | [LabX BASIC Week 12: Email & SMS Automator](./Week12/Week12_LabBasic_EmailSmsAutomator)<br>[LabX ADV Week 12: Agentic Communication Automator](./Week12/Week12_LabADV_AgenticCommAutomator)<br>[Lab 12: Final Project – Enhanced Task Manager](./Week12/Week12_Lab12_FinalProject) | – |
 
 > สรุปแต่ละสัปดาห์มี 2 แบบ: 📖 `.md` เปิดอ่านบน GitHub ได้ทันที และ 📄 `.docx` สำหรับดาวน์โหลดไปเปิดใน Word
 
