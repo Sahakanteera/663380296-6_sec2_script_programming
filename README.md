@@ -36,6 +36,7 @@
 | Activity | หัวข้อ | สัปดาห์ | งาน |
 |:---:|:---|:---:|:---|
 | 1 | Building a Simple CLI Application | 7 | [Activity 1: Simple CLI Task Manager](./Class_Activity/Activity1_SimpleCLI_TaskManager) |
+| 2 | OOP Fundamentals & Refactoring the CLI Task Manager | 8 | [Activity 2: OOP Task Manager](./Class_Activity/Activity2_OOP_TaskManager) |
 
 ## 🗂️ รูปแบบการตั้งชื่อไฟล์
 
