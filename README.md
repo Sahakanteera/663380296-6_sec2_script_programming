@@ -23,7 +23,7 @@
 | 6 | Functions & Modules | [📖 อ่านออนไลน์ (.md)](./Week6/Week6_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week6/Week6_Recap.docx) | [Lab 6 & Activity 6](./Week6/Week6_Lab6_and_Activity6.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
 | 7 | Web Scraping, Error Handling & Project Structure | [📖 อ่านออนไลน์ (.md)](./Week7/Week7_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week7/Week7_Recap.docx) | [LAB Basic 1: Web Scraping](./Week7/Week7_LabBasic1_WebScraping)<br>[LabX ADV1: Agentic Web Scraper](./Week7/Week7_LabADV1_AgenticWebScraper) | – |
 | 8 | OOP Fundamentals & Automating with CSV / JSON Data | [📖 อ่านออนไลน์ (.md)](./Week8/Week8_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week8/Week8_Recap.docx) | [LAB Basic Week 8: CSV & JSON Data Processor](./Week8/Week8_LabBasic_DataProcessor)<br>[LabX ADV Week 8: Agentic Data Processor](./Week8/Week8_LabADV_AgenticDataProcessor) | – |
-| 10 | Web APIs, Spreadsheet Automation & Final Project | [📖 อ่านออนไลน์ (.md)](./Week10/Week10_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week10/Week10_Recap.docx) | [LabX BASIC Week 10: Spreadsheet Automator](./Week10/Week10_LabBasic_SpreadsheetAutomator) | – |
+| 10 | Web APIs, Spreadsheet Automation & Final Project | [📖 อ่านออนไลน์ (.md)](./Week10/Week10_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week10/Week10_Recap.docx) | [LabX BASIC Week 10: Spreadsheet Automator](./Week10/Week10_LabBasic_SpreadsheetAutomator)<br>[LabX ADV Week 10: Spreadsheet Agent](./Week10/Week10_LabADV_SpreadsheetAgent) | – |
 | 11 | Automating PDFs & Word Documents | – | [LabX BASIC Week 11: Document Automator](./Week11/Week11_LabBasic_DocumentAutomator) | – |
 | 12 | Automating Communications (Email & SMS) | – | [LabX BASIC Week 12: Email & SMS Automator](./Week12/Week12_LabBasic_EmailSmsAutomator) | – |
 
