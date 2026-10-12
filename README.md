@@ -29,6 +29,25 @@
 
 > สรุปแต่ละสัปดาห์มี 2 แบบ: 📖 `.md` เปิดอ่านบน GitHub ได้ทันที และ 📄 `.docx` สำหรับดาวน์โหลดไปเปิดใน Word
 
+## 🚀 โปรเจกต์กลุ่ม (Mini Project & Final Project)
+
+ทั้งสองโปรเจกต์ทำเป็นทีม (ผักกาด, พัตเตอร์, กล้า) และอยู่คนละ repository แยกจาก repo นี้
+
+| โปรเจกต์ | หัวข้อ | Repository | เว็บไซต์ (Demo) |
+|:---|:---|:---:|:---:|
+| **Mini Project** (Week 7) | ☕ Coffee Shop Management System: ระบบจัดการร้านกาแฟ (Dictionaries & Sets, Functions & Modules) | [🔗 GitHub](https://github.com/Sahakanteera/Mini_project_COFFEE_SHOP_MANAGEMENT_SYSTEM) | [🌐 เปิดเว็บ](https://sahakanteera.github.io/Mini_project_COFFEE_SHOP_MANAGEMENT_SYSTEM/) |
+| **Final Project** (Project Sprint WK12–WK15) | 🌦️ WeatherAQI Sense: แดชบอร์ดติดตามสภาพอากาศและคุณภาพอากาศ 77 จังหวัด | [🔗 GitHub](https://github.com/Sahakanteera/Final_project_WeatherAQI_Sense) | [🌐 เปิดเว็บ](https://sahakanteera.github.io/Final_project_WeatherAQI_Sense/) |
+
+**Final Project แยกงานตาม Sprint:**
+
+| Sprint | งานที่ส่งมอบ | บทบาทของฉัน |
+|:---|:---|:---:|
+| [Sprint 1: Core OOP & CLI](https://github.com/Sahakanteera/Final_project_WeatherAQI_Sense/tree/main/Sprint1) | OOP, CLI, SQLite, Unit Tests | Planner / Architect |
+| [Sprint 2: Back-End & Cloud](https://github.com/Sahakanteera/Final_project_WeatherAQI_Sense/tree/main/Sprint2) | Supabase, กราฟ, AI Advisory, Search/Filter/Sort | Coder / Dev |
+| [Sprint 3: Web & DevOps](https://github.com/Sahakanteera/Final_project_WeatherAQI_Sense/tree/main/Sprint3) | Web Dashboard, CI/CD (GitHub Actions), QA | Debugger / QA |
+
+เอกสารประกอบ: [CHANGELOG](https://github.com/Sahakanteera/Final_project_WeatherAQI_Sense/blob/main/CHANGELOG.md) · [PLAN](https://github.com/Sahakanteera/Final_project_WeatherAQI_Sense/blob/main/PLAN.md) · [TEST](https://github.com/Sahakanteera/Final_project_WeatherAQI_Sense/blob/main/TEST.md) · [LEARNING LOG](https://github.com/Sahakanteera/Final_project_WeatherAQI_Sense/blob/main/LEARNINGLOG.md)
+
 ## 🧪 Class Activity (คะแนนเสริม)
 
 อยู่ในโฟลเดอร์ [`Class_Activity`](./Class_Activity) แยกจากโฟลเดอร์รายสัปดาห์ตามที่อาจารย์กำหนด
