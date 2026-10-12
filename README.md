@@ -48,6 +48,13 @@
 | CERT2 | Cisco NetAcad – Python Essentials 2 | ⏳ กำลังดำเนินการ | – |
 | CERT3 | Codecademy – Learn Python | ⏳ กำลังดำเนินการ | – |
 
+### CERT1: Python Essentials 1
+
+<p align="center">
+  <img src="./Certifications/CERT1_PythonEssentials1_Certificate.png" alt="Python Essentials 1 Certificate" width="48%">
+  <img src="./Certifications/CERT1_PythonEssentials1_StatementOfAchievement.png" alt="Python Essentials 1 Statement of Achievement" width="48%">
+</p>
+
 ## 🗂️ รูปแบบการตั้งชื่อไฟล์
 
 | รูปแบบ | ความหมาย |
