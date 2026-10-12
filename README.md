@@ -40,6 +40,14 @@
 | 3 | Interacting with Web APIs: Fetching and Processing JSON Data (+ งานต่อยอด) | [Activity 3: Web API Fetcher](./Class_Activity/Activity3_WebAPI_Fetcher) |
 | 4 | Project Planning & Design: Building an Enhanced Task Manager | [Activity 4: Enhanced Task Manager](./Class_Activity/Activity4_EnhancedTaskManager) |
 
+## 🏅 ใบรับรองการเรียนรู้ออนไลน์ (Certifications)
+
+| ใบรับรอง | คอร์ส | สถานะ | หลักฐาน |
+|:---:|:---|:---:|:---|
+| CERT1 | Cisco NetAcad – Python Essentials 1 (Script Programming 1/26) | ✅ ผ่านแล้ว | [Credly Badge](https://www.credly.com/badges/22925c60-3fae-4af1-bd22-0ce2aa63123a/public_url) |
+| CERT2 | Cisco NetAcad – Python Essentials 2 | ⏳ กำลังดำเนินการ | – |
+| CERT3 | Codecademy – Learn Python | ⏳ กำลังดำเนินการ | – |
+
 ## 🗂️ รูปแบบการตั้งชื่อไฟล์
 
 | รูปแบบ | ความหมาย |
