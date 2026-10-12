@@ -46,7 +46,7 @@
 |:---:|:---|:---:|:---|
 | CERT1 | Cisco NetAcad – Python Essentials 1 (Script Programming 1/26) | ✅ ผ่านแล้ว | [Credly Badge](https://www.credly.com/badges/22925c60-3fae-4af1-bd22-0ce2aa63123a/public_url)<br>[📄 Certificate](./Certifications/CERT1_PythonEssentials1_Certificate.pdf)<br>[📄 Statement of Achievement](./Certifications/CERT1_PythonEssentials1_StatementOfAchievement.pdf) |
 | CERT2 | Cisco NetAcad – Python Essentials 2 | ✅ ผ่านแล้ว | [Credly Badge](https://www.credly.com/badges/175af70a-d09f-4cd0-9a41-1fde78e0fa25/public_url)<br>[📄 Certificate](./Certifications/CERT2_PythonEssentials2_Certificate.pdf)<br>[📄 Statement of Achievement](./Certifications/CERT2_PythonEssentials2_StatementOfAchievement.pdf) |
-| CERT3 | Codecademy – Learn Python | ⏳ กำลังดำเนินการ | – |
+| CERT3 | Codecademy – Learn Python 2 | ✅ เรียนจบ 100% | [🖼️ หน้าโปรไฟล์ Codecademy](#cert3-codecademy) (ดูหมายเหตุ) |
 
 ### CERT1: Python Essentials 1
 
@@ -61,6 +61,17 @@
   <img src="./Certifications/CERT2_PythonEssentials2_Certificate.png" alt="Python Essentials 2 Certificate" width="48%">
   <img src="./Certifications/CERT2_PythonEssentials2_StatementOfAchievement.png" alt="Python Essentials 2 Statement of Achievement" width="48%">
 </p>
+
+### CERT3: Codecademy
+
+<p align="center">
+  <img src="./Certifications/CERT3_Codecademy_Profile.png" alt="Codecademy profile - Learn Python 2 100%" width="70%">
+</p>
+
+> **หมายเหตุถึงอาจารย์:**
+> - เรียน **Learn Python 2** จบครบ **100%** (และ Python for Programmers 100%) ตามภาพหน้าโปรไฟล์ Codecademy ด้านบน
+> - **Learn Python 3 ไม่ใช่คอร์สฟรี** เนื้อหาส่วนใหญ่ต้องสมัครสมาชิกแบบเสียเงิน (Plus/Pro) จึงเรียนได้เพียงส่วนที่เปิดให้ฟรี (15%)
+> - Codecademy ออก **Certificate of Completion เฉพาะสมาชิก Pro** บัญชีฟรีจึงดาวน์โหลดใบรับรองไม่ได้ จึงแนบภาพหน้าโปรไฟล์เป็นหลักฐานการเรียนจบแทน
 
 ## 🗂️ รูปแบบการตั้งชื่อไฟล์
 
