@@ -44,8 +44,8 @@
 
 | ใบรับรอง | คอร์ส | สถานะ | หลักฐาน |
 |:---:|:---|:---:|:---|
-| CERT1 | Cisco NetAcad – Python Essentials 1 (Script Programming 1/26) | ✅ ผ่านแล้ว (12 ต.ค. 2569) | [Credly Badge](https://www.credly.com/badges/22925c60-3fae-4af1-bd22-0ce2aa63123a/public_url)<br>[📄 Certificate](./Certifications/CERT1_PythonEssentials1_Certificate.pdf)<br>[📄 Statement of Achievement](./Certifications/CERT1_PythonEssentials1_StatementOfAchievement.pdf) |
-| CERT2 | Cisco NetAcad – Python Essentials 2 | ⏳ กำลังดำเนินการ | – |
+| CERT1 | Cisco NetAcad – Python Essentials 1 (Script Programming 1/26) | ✅ ผ่านแล้ว | [Credly Badge](https://www.credly.com/badges/22925c60-3fae-4af1-bd22-0ce2aa63123a/public_url)<br>[📄 Certificate](./Certifications/CERT1_PythonEssentials1_Certificate.pdf)<br>[📄 Statement of Achievement](./Certifications/CERT1_PythonEssentials1_StatementOfAchievement.pdf) |
+| CERT2 | Cisco NetAcad – Python Essentials 2 | ✅ ผ่านแล้ว | [Credly Badge](https://www.credly.com/badges/175af70a-d09f-4cd0-9a41-1fde78e0fa25/public_url)<br>[📄 Certificate](./Certifications/CERT2_PythonEssentials2_Certificate.pdf)<br>[📄 Statement of Achievement](./Certifications/CERT2_PythonEssentials2_StatementOfAchievement.pdf) |
 | CERT3 | Codecademy – Learn Python | ⏳ กำลังดำเนินการ | – |
 
 ### CERT1: Python Essentials 1
@@ -53,6 +53,13 @@
 <p align="center">
   <img src="./Certifications/CERT1_PythonEssentials1_Certificate.png" alt="Python Essentials 1 Certificate" width="48%">
   <img src="./Certifications/CERT1_PythonEssentials1_StatementOfAchievement.png" alt="Python Essentials 1 Statement of Achievement" width="48%">
+</p>
+
+### CERT2: Python Essentials 2
+
+<p align="center">
+  <img src="./Certifications/CERT2_PythonEssentials2_Certificate.png" alt="Python Essentials 2 Certificate" width="48%">
+  <img src="./Certifications/CERT2_PythonEssentials2_StatementOfAchievement.png" alt="Python Essentials 2 Statement of Achievement" width="48%">
 </p>
 
 ## 🗂️ รูปแบบการตั้งชื่อไฟล์
