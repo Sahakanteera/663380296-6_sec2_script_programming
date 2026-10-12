@@ -15,7 +15,7 @@
 
 | สัปดาห์ | หัวข้อบทเรียน | สรุปการเรียน (Recap) | Lab | Activity |
 |:---:|:---|:---:|:---|:---|
-| 1 | Introduction to Python & Basic Syntax | [📖 อ่านออนไลน์ (.md)](./Week1/Week1_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week1/Week1_Recap.docx) | – | – |
+| 1 | Introduction to Python & Basic Syntax | [📖 อ่านออนไลน์ (.md)](./Week1/Week1_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week1/Week1_Recap.docx) | [Lab 1: Sec2_Week1_Lab1 (Google Colab)](https://colab.research.google.com/drive/1hLCuvBBY4ApzuEtXvrtYkjTNOXyPfN-h?usp=sharing) | – |
 | 2 | Control Flow: Conditionals + List Comprehension | [📖 อ่านออนไลน์ (.md)](./Week2/Week2_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week2/Week2_Recap.docx) | [Lab 2.1](./Week2/Week2_Lab2.1.ipynb) · [Lab 2.2](./Week2/Week2_Lab2.2.ipynb) | [Activity 2.1–2.2](./Week2/Week2_Activity2.1-2.2.pdf) |
 | 3 | Control Flow: Loops + Generators | [📖 อ่านออนไลน์ (.md)](./Week3/Week3_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week3/Week3_Recap.docx) | [Lab 3 & Activity 3](./Week3/Week3_Lab3_and_Activity3.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
 | 4 | Data Structures: Lists & Tuples | [📖 อ่านออนไลน์ (.md)](./Week4/Week4_Recap.md)<br>[📄 ดาวน์โหลด (.docx)](./Week4/Week4_Recap.docx) | [Lab 4 & Activity 4](./Week4/Week4_Lab4_and_Activity4.ipynb) | (อยู่ใน notebook เดียวกับ Lab) |
