@@ -44,7 +44,7 @@
 
 | ใบรับรอง | คอร์ส | สถานะ | หลักฐาน |
 |:---:|:---|:---:|:---|
-| CERT1 | Cisco NetAcad – Python Essentials 1 (Script Programming 1/26) | ✅ ผ่านแล้ว | [Credly Badge](https://www.credly.com/badges/22925c60-3fae-4af1-bd22-0ce2aa63123a/public_url) |
+| CERT1 | Cisco NetAcad – Python Essentials 1 (Script Programming 1/26) | ✅ ผ่านแล้ว (12 ต.ค. 2569) | [Credly Badge](https://www.credly.com/badges/22925c60-3fae-4af1-bd22-0ce2aa63123a/public_url)<br>[📄 Certificate](./Certifications/CERT1_PythonEssentials1_Certificate.pdf)<br>[📄 Statement of Achievement](./Certifications/CERT1_PythonEssentials1_StatementOfAchievement.pdf) |
 | CERT2 | Cisco NetAcad – Python Essentials 2 | ⏳ กำลังดำเนินการ | – |
 | CERT3 | Codecademy – Learn Python | ⏳ กำลังดำเนินการ | – |
 
