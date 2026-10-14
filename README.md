@@ -29,9 +29,24 @@
 
 > สรุปแต่ละสัปดาห์มี 2 แบบ: 📖 `.md` เปิดอ่านบน GitHub ได้ทันที และ 📄 `.docx` สำหรับดาวน์โหลดไปเปิดใน Word
 
+## 🧭 โครงสร้าง repo เทียบกับที่อาจารย์กำหนด
+
+repo นี้จัดเก็บงานตาม**สัปดาห์** (`WeekN/`) ไม่ได้แยกเป็นโฟลเดอร์ Lab / Lab X Basic / Lab X Advance ตามที่อาจารย์กำหนด ตารางนี้บอกว่างานแต่ละประเภทอยู่ที่ไหน
+
+| โครงสร้างที่อาจารย์กำหนด | อยู่ใน repo นี้ที่ |
+|:---|:---|
+| **Lab** (Lab ประจำสัปดาห์) | Lab 1: ลิงก์ Google Colab ในตารางด้านบน<br>Lab 2–6: ไฟล์ `WeekN_Lab*.ipynb` ใน `Week2/` – `Week6/` (เลข Lab ตรงกับเลขสัปดาห์)<br>ข้อ **Challenge** ของ Lab ทำไว้ใน notebook เดียวกับ Lab นั้น: Lab 2.1, Lab 3.1, Lab 3.2, Lab 4.1, Lab 4.2, Lab 5.1<br>`Week12/Week12_Lab12_FinalProject/`: Lab 12 Enhanced Task Manager |
+| **Lab X Basic** | `Week7/Week7_LabBasic1_WebScraping/`<br>`Week8/Week8_LabBasic_DataProcessor/`<br>`Week10/Week10_LabBasic_SpreadsheetAutomator/`<br>`Week11/Week11_LabBasic_DocumentAutomator/`<br>`Week12/Week12_LabBasic_EmailSmsAutomator/` |
+| **Lab X Advance** | `Week7/Week7_LabADV1_AgenticWebScraper/`<br>`Week8/Week8_LabADV_AgenticDataProcessor/`<br>`Week10/Week10_LabADV_SpreadsheetAgent/`<br>`Week11/Week11_LabADV_DocumentAgent/`<br>`Week12/Week12_LabADV_AgenticCommAutomator/` |
+| **mini Project** | [`Mini_Project/`](./Mini_Project): ไฟล์ `.md` ที่มีลิงก์ไปยัง repo ของโปรเจกต์ |
+| **Final Project** | [`Final_Project/`](./Final_Project): ไฟล์ `.md` ที่มีลิงก์ไปยัง repo ของโปรเจกต์ |
+| งานอื่นเพิ่มเติม | `Class_Activity/` (คะแนนเสริม), `Certifications/` (ใบรับรอง), `WeekN_Recap.md` (สรุปการเรียน) |
+
+> `Week12_Lab12_FinalProject` คือ Lab 12 ประจำสัปดาห์ (Enhanced Task Manager) ไม่ใช่ Final Project ของกลุ่ม
+
 ## 🚀 โปรเจกต์กลุ่ม (Mini Project & Final Project)
 
-ทั้งสองโปรเจกต์ทำเป็นทีม (ผักกาด, พัตเตอร์, กล้า) และอยู่คนละ repository แยกจาก repo นี้
+ทั้งสองโปรเจกต์ทำเป็นทีม (ผักกาด, พัตเตอร์, กล้า) และอยู่คนละ repository แยกจาก repo นี้ ลิงก์เก็บไว้ในโฟลเดอร์ [`Mini_Project/`](./Mini_Project) และ [`Final_Project/`](./Final_Project) ด้วย
 
 | โปรเจกต์ | หัวข้อ | Repository | เว็บไซต์ (Demo) |
 |:---|:---|:---:|:---:|
@@ -90,6 +105,8 @@
 | `WeekN_LabX.Y.ipynb` | Lab ข้อ X.Y ของสัปดาห์ที่ N |
 | `WeekN_ActivityX.pdf` | Class Activity ของสัปดาห์ที่ N |
 | `WeekN_LabBasicX_<ชื่อ>/` | โปรเจกต์ LabX Basic (มี `README.md` และ `screenshots/`) |
+| `WeekN_LabADV_<ชื่อ>/` | โปรเจกต์ LabX Advance (มี `README.md` และ `screenshots/`) |
+| `Mini_Project/`, `Final_Project/` | ลิงก์ไปยัง repo ของโปรเจกต์กลุ่ม |
 
 ## ▶️ วิธีรันโปรเจกต์ Python (ตัวอย่าง Week 7)
 ```powershell
